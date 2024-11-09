@@ -44,7 +44,7 @@ private:
 The hardware simulation is implemented using operational amplifier (Op-Amp) circuits. The circuit is divided into several blocks:
 
 1. **Sum Block**: This block adds two inputs.
-![sum](sum.png)
+ ![sum](sum.png)
 
 3. **Multiplication Block**: This block performs multiplication of inputs.
 ![multiplication](multiplier.png)
