@@ -45,11 +45,14 @@ The hardware simulation is implemented using operational amplifier (Op-Amp) circ
 
 1. **Sum Block**: This block adds two inputs.
 ![sum](sum.png)
-2. **Multiplication Block**: This block performs multiplication of inputs.
+
+3. **Multiplication Block**: This block performs multiplication of inputs.
 ![multiplication](multiplier.png)
-3. **Division Block**: This block divides one input by another.
+
+5. **Division Block**: This block divides one input by another.
 ![division](division.png)
-4. **Sigmoid Block**: This block implements the sigmoid activation function.
+
+7. **Sigmoid Block**: This block implements the sigmoid activation function.
 ![sigmoid](sigmoid.png)
 
 These blocks are combined into a complete neuron circuit, which simulates the neuron’s behavior as described in the `Neuron` class.
